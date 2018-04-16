@@ -1,0 +1,636 @@
+/*@font-face {*/
+    /*font-family: GothamMediumReg;*/
+    /*src: url(GothamMediumRegular.ttf);*/
+/*}*/
+
+/*@font-face {*/
+    /*font-family: GothamBookReg;*/
+    /*src: url(GothamBookRegular.otf);*/
+/*}*/
+
+/*@font-face {*/
+    /*font-family: VerlagBold;*/
+    /*src: url(VerlagBold.otf);*/
+/*}*/
+
+body
+{
+    padding-bottom:0;
+    margin-bottom:0;
+}
+.tb-nav {
+    background-color: #ebf2f8 !important;
+    color: #3d3e42 !important;
+}
+
+.tb-nav a {
+    color: #3d3e42 !important;
+}
+
+#brand-image {
+    height: 50px;
+
+
+}
+
+
+.jumbotron-triad-main {
+    background-color: #50aebc;
+    min-height:100%;
+    background:linear-gradient(0deg,rgba(80,174,188,0.7),rgba(80,174,188,0.7)),url(../images/stair-guy-homepage.jpg);
+    background-size:cover;
+}
+
+
+.jumbotron-triad-brands {
+    background-color: #50aebc;
+    min-height:100%;
+    background:linear-gradient(0deg,rgba(80,174,188,0.7),rgba(80,174,188,0.7)),url(../images/our-brand-header.png);
+    background-size:cover;
+}
+
+
+.jumbotron-triad-story {
+    background-color: #50aebc;
+    min-height:100%;
+    background:linear-gradient(0deg,rgba(80,174,188,0.7),rgba(80,174,188,0.7)),url(../images/our_story-header.png);
+    background-size:cover;
+}
+
+.jumbotron-triad-who_we_are {
+    background-color: #50aebc;
+    min-height:100%;
+    background:linear-gradient(0deg,rgba(80,174,188,0.7),rgba(80,174,188,0.7)),url(../images/who_we_are_header.png);
+    background-size:cover;
+}
+
+.jumbotron-triad-advisory_board {
+    background-color: #50aebc;
+    min-height:100%;
+    background:linear-gradient(0deg,rgba(80,174,188,0.7),rgba(80,174,188,0.7)),url(../images/advisory_board_header.png);
+    background-size:cover;
+}
+
+/*Research Institute Section Homepage Styles*/
+
+.research-institute-section-main {
+    background-color: #ebf2f8;
+
+}
+
+.research-institute-section-header1 {
+    font-family: "GothamMediumReg";
+    font-size: 1.3em;
+
+}
+
+.research-institute-section-header2 {
+    font-size: 3em;
+}
+
+
+.icon-research-institute-main {
+    height: 75px;
+    width: 75px;
+}
+
+
+.news-article-label {
+    font-size: 1.3em;
+}
+
+.latest-news-home {
+
+}
+
+.latest-news-home-para {
+    font-size: 1em;
+    text-align: justify;
+}
+
+.latest-news-home-img {
+    width: 550px;
+    height:300px;
+}
+
+
+.latest-news-links {
+    color: #50aebc;
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+
+.latest-news-links:hover {
+    color: #0a718a;
+}
+
+.lead-triad {
+    color: #ffffff;
+    font-size: 3em;
+}
+
+a.lead-triad-link {
+    color: #ffffff;
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+a.lead-triad-link:hover {
+    color: #0a718a;
+}
+
+
+.triad-foot {
+
+    background-color: #0a718a !important;
+
+}
+
+.triad-foot a {
+    color: #ffffff;
+    font-family:  "GothamMediumReg";
+}
+
+
+
+.story-mission-main {
+    font-family: "GothamMediumReg";
+    font-size: 1.3em;
+
+
+}
+
+.story-mission-para {
+    font-size: 1em;
+    text-align: justify;
+}
+
+.lead-explain-links{
+    color: #50aebc;
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+
+.lead-explain-links:hover {
+    color: #0a718a;
+}
+
+
+.gotham-med {
+    font-family:  "GothamMediumReg";
+}
+
+.gotham-book {
+    font-family: "GothamBookReg";
+}
+
+.gotham-book-nav {
+    font-family: "GothamBookReg";
+    font-weight:800;
+    /*margin-right:.4em;*/
+}
+
+
+.verlag-bold {
+    font-family: "VerlagBold";
+}
+
+.verlag-bold-nav {
+    font-family: "VerlagBold";
+
+
+}
+
+.gotham-med-nav {
+    font-family:  "GothamMediumReg";
+    font-size: .9em;
+}
+
+
+
+.img-main-story {
+    max-width: 100%;
+
+}
+
+
+#brand-image-foot {
+    width: 150px;
+    margin-left: 0%;
+
+
+}
+.foot-nav-ul {
+
+}
+
+.foot-nav {
+    margin-right:2em !important;
+
+}
+
+
+.footer-social-icon {
+
+    height:25px;
+    width: 25px;
+    margin-right:.5em;
+}
+
+.social-group-footer {
+
+}
+
+
+.brands-lead-para {
+    font-size: 1.5em;
+    color: #ffffff;
+}
+
+
+.img-brands {
+    max-width: 100%;
+    margin-bottom:1em;
+}
+
+a.brand-img {
+
+}
+
+a.brand-img img:hover {
+    /*border: 1px solid #0a718a;*/
+}
+
+.brands-para {
+    font-size: 1em;
+    text-align: justify;
+}
+.brand-affiliations-para {
+    font-size: 1.7em;
+}
+
+.brand-affiliations-img {
+    width: 550px;
+    margin-top: 1em;
+}
+
+.btn-brands-a {
+    background-color: #50aebc;
+    font-size: .9em;
+    border: none;
+    padding: 1em;
+    border-radius: 0;
+}
+
+.btn-brands-a:hover {
+    background-color: #0a718a;
+
+}
+
+.btn-brands-b {
+    background-color: #0a718a;
+    font-size: .9em;
+    border: none;
+    padding: 1em;
+    border-radius: 0;
+
+}
+
+.btn-brands-b:hover {
+    background-color: #50aebc;
+}
+
+
+
+.btn-who-we-are-brand {
+    background-color: #ee6b49;
+    font-size: 1em;
+    border: none;
+    padding: 1em;
+}
+
+.btn-who-we-are-brand:hover {
+    background-color: #0a718a;
+
+}
+.career-opp-img {
+    width: 550px;
+
+    margin-top: 1em;
+}
+
+.who_we_are-section-career {
+    background-color: #FFFFFF;
+}
+
+
+.our_story-section-main {
+    background-color: #FFFFFF;
+}
+
+
+.story-learn-number {
+    font-size: 1.3em;
+}
+
+.our_story-learn-explain {
+    font-size: 1.2em;
+
+}
+
+.advisory-section-management {
+    margin-bottom: 0;
+}
+
+.btn-who-we-are-contact {
+    background-color: #0a718a;
+    border: none;
+    padding: 1em;
+}
+
+.btn-who-we-are-contact:hover {
+    background-color: #50aebc;
+}
+
+
+/*Mega Dropdown Menu Styles*/
+
+.has-mega-menu {
+
+
+}
+
+.remove-col-padding-dropdown {
+    padding:0;
+
+}
+
+.drop-left-menu {
+    background-color: #0a718a;
+    padding: 1.2em;
+}
+
+.drop-right-menu {
+    background-color: #ebf2f8;
+    padding: 1.2em;
+}
+
+.dropdown-subhead {
+    font-size: 1em;
+}
+
+.research-drop {
+    font-size: .9em !important;
+}
+
+
+a.dropdown-subhead:hover {
+    color: #FFFFFF !important;
+    background-color: #0a718a;
+}
+
+
+.dropdown-big-links{
+    font-size: .9em;
+
+}
+
+.dropdown-big-links-brand-hover{
+    font-size: .85em;
+    text-align:left;
+}
+
+.dropdown-big-links-brand-hover:hover {
+    color: #FFFFFF !important;
+    background-color: #0a718a;
+
+}
+
+a.dropdown-big-links:hover {
+    color: #FFFFFF !important;
+    background-color: #0a718a;
+
+}
+
+a.dropdown-head-links {
+    color: #FFFFFF !important;
+    text-decoration: none;
+}
+
+.dropdown-subhead-left {
+    font-size: 1.5em;
+    color: #FFFFFF;
+}
+
+.dropdown-para {
+    font-size: 1em;
+    color: #FFFFFF;
+    text-align:justify;
+}
+
+
+.dropdown-menu {
+    padding:0;
+}
+
+.hide-large-dropdown {
+    display:none;
+
+}
+
+.hide-small-dropdown {
+
+}
+
+
+/*sitemap page*/
+.info-color, .toast-info {
+    background-color: #0a718a!important;
+}
+
+
+.card:not([class*=card-outline-]) {
+    border: 0;
+}
+
+.card.card-cascade {
+    width: 100%;
+}
+
+.card.card-cascade.narrower {
+    margin-top: 20px;
+}
+
+.card.card-cascade.narrower .view {
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: -20px;
+}
+
+.card.card-cascade .view.gradient-card-header {
+    padding: 1.6rem 1rem;
+    text-align: center;
+}
+
+
+.card, .card .card-body h3, .card .card-body h4, .card .card-text {
+    font-weight: 400;
+}
+
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -ms-flex-direction: column;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+.card.card-cascade .card-body {
+    padding-top: 1.8rem;
+}
+.card .card-body {
+    position: relative;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.card:not([class*=card-outline-]) {
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+}
+
+.sitemap-headers {
+    color: #FFFFFF;
+    letter-spacing: .1em;
+}
+
+.divided-list li {
+    /*padding-bottom: 10px;*/
+    /*padding-top: 10px;*/
+    border-bottom: 1px solid #eee;
+    font-size: 1rem;
+    font-family: GothamBookReg;
+}
+
+.divided-list li a {
+    color: #000000;
+    display:block;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.divided-list li a:hover {
+    /*color: #FFFFFF;*/
+    background-color: #ebf2f8;
+    height:100%;
+}
+
+.divided-list li:hover {
+    /*background-color: #ebf2f8;*/
+
+}
+
+.contact-button {
+    background-color: #0a718a;
+    border:#000000 solid 1px;
+}
+
+.contact-button:hover {
+    background-color: #ebf2f8;
+    color: #000000;
+    border:#000000 solid 1px;
+}
+
+.contact-button:visited {
+    background-color: #ebf2f8;
+    color: #000000;
+}
+
+.contact-button:focus, contact-button:active {
+    background-color: #ebf2f8;
+    color: #000000;
+
+}
+
+.contact-button.btn-primary:not([disabled]):not(.disabled):active {
+    background-color: #ebf2f8;
+    color: #000000;
+}
+/*media queries*/
+
+/*mega-menu media queries*/
+
+@media screen and (min-width: 576px) {
+
+    .contain-brand-drop {
+        width: 422px !important;
+    }
+
+    .contain-brand-drop-big {
+        width: 540px;
+    }
+
+
+    .has-mega-menu .container-sm {
+        width: 540px;
+    }
+
+
+}
+
+@media screen and (min-width: 768px) {
+    .has-mega-menu .container-md {
+        width: 720px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .has-mega-menu .container-lg {
+        width: 960px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .has-mega-menu .container-xl {
+        width: 1140px;
+    }
+}
+
+
+
+
+@media (max-width: 991px) {
+
+    /* hide desktop dropdown and replace with mobile/table dropdown */
+
+    .hide-small-dropdown {
+        display: none;
+    }
+
+    .hide-large-dropdown {
+
+        display:block;
+    }
+
+
+    /* smart practitioner button smaller font size for mobile */
+    .btn-sp{
+        font-size: .83em;
+
+    }
+}
