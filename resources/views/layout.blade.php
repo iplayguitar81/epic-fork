@@ -1084,7 +1084,7 @@ em.caption-em{
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="{{url('/recipes')}}">Recipes</a>
-                    <a class="dropdown-item" href="{{url('/posts')}}">Share Yum Blog</a>
+                    <a class="dropdown-item" href="{{url('/posts')}}">Epic Fork Blog</a>
                     {{--<div class="dropdown-divider"></div>--}}
                     {{--<a class="dropdown-item" href="#">Something else here</a>--}}
                 </div>
