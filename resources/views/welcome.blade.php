@@ -17,7 +17,7 @@
     {{--<br/>--}}
 {{--</div>--}}
         <br/>
-        <h1 class="chalkboard text-center">Welcome to ShareYum.com!</h1>
+        <h1 class="chalkboard text-center">Welcome to EpicFork.com!</h1>
         <p class="text-muted text-center">Below you will find some of the latest and greatest recipes we have added to the site recently!</p>
         <p class="text-muted text-center">Enjoy your visit, exploring our recipes and please feel free to share these recipes with family &amp; friends!</p>
         <br/>
