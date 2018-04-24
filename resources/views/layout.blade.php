@@ -125,6 +125,11 @@ div.pagination {
     left:0;
 }
 
+.nav-bg-efork {
+
+    background: url('{{ URL::asset('images/picnictablebgpurp.png') }}');
+}
+
 .back {
     background : gold;
     width:100%;
@@ -1062,7 +1067,7 @@ em.caption-em{
 
 {{--</header>--}}
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light bg-light nav-bg-efork">
     <a class="navbar-brand triad-lg-brand" href="{{url('/')}}">
         <img id="brand-image" style="width:250px; height:auto;" src="{{url('images/epicforkdraft2.png')}}" alt="EpicFork.com Logo">
     </a>
