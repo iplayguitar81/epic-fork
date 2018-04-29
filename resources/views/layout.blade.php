@@ -133,6 +133,7 @@ div.pagination {
 
     {{--background: url('{{ URL::asset('images/picnictablebgpurp.png') }}');--}}
 
+    background-color: #86c5df!important;
 
 }
 
@@ -439,6 +440,7 @@ twitterwidget{
 
 .panel-footer{
     text-align:center;
+    background-color: #86c5df!important;
 }
 
 .uk-accordion-title {
@@ -1110,8 +1112,6 @@ em.caption-em{
         </form>
     </div>
 </nav>
-<br/>
-
 
 {{--<nav class="navbar navbar-default">--}}
     {{--<div class="container-fluid">--}}

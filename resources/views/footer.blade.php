@@ -1,4 +1,3 @@
-<br/>
 <div class="panel-footer">
     EpicFork.com &copy; {{date("Y")}}
     <br/>
