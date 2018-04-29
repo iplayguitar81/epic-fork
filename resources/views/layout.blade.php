@@ -27,8 +27,12 @@
 
     .main-contain{
 
+        background: url('{{ URL::asset('images/background-image-picnic.jpg') }}');
     }
 
+    .content-container {
+        background-color: #FFFFFF;
+    }
     /*.video-container {*/
         /*position: relative;*/
         /*padding-bottom: 56.25%;*/
@@ -127,7 +131,9 @@ div.pagination {
 
 .nav-bg-efork {
 
-    background: url('{{ URL::asset('images/picnictablebgpurp.png') }}');
+    {{--background: url('{{ URL::asset('images/picnictablebgpurp.png') }}');--}}
+
+
 }
 
 .back {
@@ -1069,7 +1075,7 @@ em.caption-em{
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light nav-bg-efork">
     <a class="navbar-brand triad-lg-brand" href="{{url('/')}}">
-        <img id="brand-image" style="width:250px; height:auto;" src="{{url('images/epicforkdraft2.png')}}" alt="EpicFork.com Logo">
+        <img id="brand-image" style="width:250px; height:auto;" src="{{url('images/epicfork-draft3.png')}}" alt="EpicFork.com Logo">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
