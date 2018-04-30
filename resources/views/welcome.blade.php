@@ -3,7 +3,7 @@
 @section('content')
 <br/>
 <br/>
-<div class="container content-container">
+
 
     @if(Session::has('message'))
         <div class="alert alert-info">
@@ -69,10 +69,7 @@
         <br/>
 
 
-</div>
-<br/>
 
-<br/>
 
 {{--<div class="col-md-3 col-sm-10 col-sm-offset-1 col-md-offset-1">--}}
     {{--@include('sidebar')--}}

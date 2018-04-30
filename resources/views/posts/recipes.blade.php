@@ -2,7 +2,7 @@
 @section('title', 'Recipe Categories')
 @section('content')
 
-    <div class="container text-center">
+
         <h1 class="chalkboard text-center">Latest Recipes By Category</h1>
         <br/>
 
@@ -524,8 +524,6 @@
 
 
 
-
-    </div>
 
 
 @endsection

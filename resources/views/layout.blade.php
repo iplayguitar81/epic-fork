@@ -1277,7 +1277,10 @@ em.caption-em{
 
 <div class="row">
 
+    <div class="container content-container">
+
         @yield('content')
+    </div>
 
 </div>
 </div>
