@@ -1,7 +1,7 @@
 @extends('layout')
 @section('title', 'Pasta Recipes')
 @section('content')
- <div class="container">
+
 
     <h1 class="chalkboard text-center">Pasta Recipes</h1>
     <p class="text-center text-muted">Here you view our tasty Pasta recipes as tested and approved by the ShareYum.com staff!</p>
@@ -34,5 +34,8 @@
         <button type="submit" class="btn btn-primary center-block btn-md" onclick="window.location='{{url('/recipes')}}';" >Back to All Recipes</button>
     </div>
 
- </div>
+
+    <br/>
+    <br/>
+
 @endsection

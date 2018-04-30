@@ -1,7 +1,7 @@
 @extends('layout')
 @section('title', 'Misc. Canning, etc. Recipes')
 @section('content')
-<div class="container">
+
     <h1 class="chalkboard text-center">Misc. Canning, etc. Recipes</h1>
     <p class="text-center text-muted">Here you view our tasty Canning and miscellaneous recipes!</p>
     <hr>
@@ -32,5 +32,8 @@
     <div class="buttons-show">
         <button type="submit" class="btn btn-primary center-block btn-md" onclick="window.location='{{url('/recipes')}}';" >Back to All Recipes</button>
     </div>
-</div>
+
+    <br/>
+    <br/>
+
 @endsection

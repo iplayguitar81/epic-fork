@@ -18,7 +18,7 @@
     <br/>
     <hr/>
 
-    <div class="container">
+
     @foreach($results2 as $result)
 
             <div class="row justify-content-md-center">
@@ -62,11 +62,13 @@
 
 
     @endforeach
-    </div>
+
 
     <div class="pagination">{!! $results2->render() !!}</div>
 
 @endif
+            <br/>
+            <br/>
 
 
 

@@ -1,7 +1,6 @@
 @extends('layout')
 @section('title', 'Vegetables Recipes')
 @section('content')
-    <div class="container">
 
     <h1 class="chalkboard text-center">Vegetable Recipes</h1>
     <p class="text-center text-muted">Here you view our tasty Vegetable recipes tested &amp; approved by the ShareYum.com staff!</p>
@@ -33,5 +32,8 @@
     <div class="buttons-show">
         <button type="submit" class="btn btn-primary center-block btn-md" onclick="window.location='{{url('/recipes')}}';" >Back to All Recipes</button>
     </div>
-</div>
+
+    <br/>
+    <br/>
+
 @endsection

@@ -4,7 +4,7 @@
 
     @can('isAdmin')
 
-        <div class="container">
+
 
     <h1 class="chalkboard text-center">Edit Post</h1>
 
@@ -278,7 +278,7 @@
     @else <?php header("Location: /"); die(); ?>
 
     @endcan
-</div>
+
 
 @endsection
 

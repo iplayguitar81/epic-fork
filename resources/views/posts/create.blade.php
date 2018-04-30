@@ -1,7 +1,7 @@
 @extends('layout')
 @section('title', 'Create New Post')
 @section('content')
-<div class="container">
+
 
     @can('isAdmin')
 
@@ -216,12 +216,12 @@
             {{--</div>--}}
 
         {{--</div>--}}
-    </div>
+
 
     @else <?php header("Location: /"); die(); ?>
 
     @endcan
-</div>
+
 
 @endsection
 

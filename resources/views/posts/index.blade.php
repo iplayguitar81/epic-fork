@@ -1,7 +1,7 @@
 @extends('layout')
 @section('content')
 @section('title', 'Admin Recipe Listings')
-<div class="container">
+
     <h1 class="chalkboard text-center">All Recipe Listings</h1>
 
     @can('isAdmin')
@@ -63,5 +63,7 @@
     <br/>
 
     <div class="pagination"> {!! $posts->render() !!} </div>
-</div>
+
+<br/>
+<br/>
 @endsection

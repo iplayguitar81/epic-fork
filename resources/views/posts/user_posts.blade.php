@@ -2,7 +2,7 @@
 @section('title', 'Welcome '.$user_name. ' Here Are Your Recipes!')
 @section('content')
 
-    <div class="container">
+
         <h1 class="text-center chalkboard">{{$user_name}}'s Recipes</h1>
         <br/>
            <div class="text-center">@can('isAdmin')<a href="{{ url('/posts/create') }}" class="btn btn-primary mx-auto btn-sm">Add New Recipe</a>@endcan</div>
@@ -50,6 +50,9 @@
         <br/>
 
         <div class="pagination"> {!! $posts->render() !!} </div>
-    </div>
+
+        <br/>
+        <br/>
+
 
 @endsection
