@@ -31,7 +31,7 @@
     }
 
     .content-container {
-        background: rbga(255,255,255 0.8);
+        background: rgba(255,255,255 0.8);
     }
     /*.video-container {*/
         /*position: relative;*/
