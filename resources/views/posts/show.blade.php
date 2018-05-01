@@ -94,6 +94,7 @@
         <div class="fb-comments center-block" data-href="https://dev.fidgetspinnerdog.com/posts/{{$post->id}}/{{str_slug($post->title)}}" data-numposts="10"></div>
 
         <br/>
+        <br/>
 
         <div class="buttons-show">
 
