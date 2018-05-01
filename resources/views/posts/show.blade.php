@@ -6,6 +6,8 @@
     <div class="col-md-12">
 
     <article class="">
+        <br/>
+        <br/>
         <h1 class="chalkboard text-center" style="">{{ ucwords($post->title) }}</h1>
         <p class="text-center">{{ucwords($post->subHead)}}</p>
 
@@ -106,6 +108,8 @@
 
     </div>
 </div>
+    <br/>
+    <br/>
 
 
     @endsection
