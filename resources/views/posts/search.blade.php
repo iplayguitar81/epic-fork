@@ -13,7 +13,8 @@
         </div>
 
 @else
-    <h1 class="article-title-show">Search Results</h1>
+    <br/>
+    <h1 class="chalkboard text-center">Search Results</h1>
     <h3 class="text-center">Showing Results For '{{ucwords($search)}}'.....</h3>
     <br/>
     <hr/>
