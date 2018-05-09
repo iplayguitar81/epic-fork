@@ -48,7 +48,7 @@
         </div>
     </div>
         <br/>
-        <div class="center-block text-center">
+        <div class="center-block text-left">
        <div class="article-texterson2"> {!! ($post->body) !!} </div>
             @if(($post->images->count() > 0 ))
             <div class="container">
