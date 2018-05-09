@@ -139,6 +139,10 @@ div.pagination {
 
 }
 
+.navbar-epic-ul {
+    background: rgba(255,255,255, .6);
+}
+
 .back {
     background : gold;
     width:100%;
@@ -1086,7 +1090,7 @@ em.caption-em{
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mx-auto chalkboard">
+        <ul class="navbar-nav mx-auto chalkboard navbar-epic-ul">
             <li class="nav-item active">
                 <a class="nav-link" href="{{url('/')}}">Home</a>
             </li>
