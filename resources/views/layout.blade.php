@@ -28,6 +28,7 @@
     .main-contain{
 
         background: url('{{ URL::asset('images/background-image-picnic.jpg') }}');
+
     }
 
     .content-container {
@@ -133,7 +134,8 @@ div.pagination {
 
     {{--background: url('{{ URL::asset('images/picnictablebgpurp.png') }}');--}}
 
-    background-color: #86c5df!important;
+    /*background-color: #86c5df!important;*/
+    background: url('{{ URL::asset('images/cutting-board.jpg') }}');
 
 }
 
