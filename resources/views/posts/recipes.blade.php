@@ -2,7 +2,8 @@
 @section('title', 'Recipe Categories')
 @section('content')
 
-
+        <br/>
+        <br/>
         <h1 class="chalkboard text-center">Latest Recipes By Category</h1>
         <br/>
 

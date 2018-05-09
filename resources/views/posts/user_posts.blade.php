@@ -2,7 +2,8 @@
 @section('title', 'Welcome '.$user_name. ' Here Are Your Recipes!')
 @section('content')
 
-
+        <br/>
+        <br/>
         <h1 class="text-center chalkboard">{{$user_name}}'s Recipes</h1>
         <br/>
            <div class="text-center">@can('isAdmin')<a href="{{ url('/posts/create') }}" class="btn btn-primary mx-auto btn-sm">Add New Recipe</a>@endcan</div>

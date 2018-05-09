@@ -1,7 +1,8 @@
 @extends('layout')
 @section('title', 'Fish &amp; Poultry Recipes')
 @section('content')
-
+    <br/>
+    <br/>
     <h1 class="chalkboard text-center">Fish &amp; Poultry</h1>
     <p class="text-center text-muted">Here you view the tastiest Fish &amp; Poultry recipes as tested and approved by the ShareYum.com staff!</p>
     <hr>

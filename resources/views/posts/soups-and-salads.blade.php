@@ -2,6 +2,8 @@
 @section('title', 'Soup &amp; Salad Recipes')
 @section('content')
 
+    <br/>
+    <br/>
     <h1 class="chalkboard text-center">Soup &amp; Salad Recipes</h1>
     <p class="text-center text-muted">Here you view our tasty Soup &amp; Salad recipes tested &amp; approved by the ShareYum.com staff!</p>
     <hr>

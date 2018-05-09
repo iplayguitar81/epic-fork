@@ -2,6 +2,8 @@
 @section('title', 'Vegetables Recipes')
 @section('content')
 
+    <br/>
+    <br/>
     <h1 class="chalkboard text-center">Vegetable Recipes</h1>
     <p class="text-center text-muted">Here you view our tasty Vegetable recipes tested &amp; approved by the ShareYum.com staff!</p>
     <hr>

@@ -1,7 +1,8 @@
 @extends('layout')
 @section('title', 'Misc. Canning, etc. Recipes')
 @section('content')
-
+    <br/>
+    <br/>
     <h1 class="chalkboard text-center">Misc. Canning, etc. Recipes</h1>
     <p class="text-center text-muted">Here you view our tasty Canning and miscellaneous recipes!</p>
     <hr>

@@ -1,7 +1,8 @@
 @extends('layout')
 @section('title', 'Comedy News')
 @section('content')
-
+    <br/>
+    <br/>
     <h1 class="chalkboard text-center">Desserts &amp; Baked Goods</h1>
     <p class="text-center text-muted">Here you view our tasty Dessert and Baked goods recipes!</p>
     <hr>

@@ -2,7 +2,8 @@
 @section('title', 'Pasta Recipes')
 @section('content')
 
-
+    <br/>
+    <br/>
     <h1 class="chalkboard text-center">Pasta Recipes</h1>
     <p class="text-center text-muted">Here you view our tasty Pasta recipes as tested and approved by the ShareYum.com staff!</p>
     <hr>

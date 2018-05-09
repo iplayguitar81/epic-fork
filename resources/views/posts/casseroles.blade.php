@@ -2,7 +2,8 @@
 @section('title', 'Casserole Recipes')
 @section('content')
 
-
+    <br/>
+    <br/>
     <h1 class="chalkboard text-center">Casseroles</h1>
     <p class="text-center text-muted">Here are the tastiest casserole recipes tested and approved by the ShareYum.com staff!</p>
     <hr>

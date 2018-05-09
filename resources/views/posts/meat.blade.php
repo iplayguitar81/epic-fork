@@ -1,7 +1,8 @@
 @extends('layout')
 @section('title', 'Meat Recipes')
 @section('content')
-
+    <br/>
+    <br/>
     <h1 class="chalkboard text-center">Meat</h1>
     <p class="text-center text-muted">Here you view the tastiest Meat recipes as tested and approved by the ShareYum.com staff!</p>
     <hr>
