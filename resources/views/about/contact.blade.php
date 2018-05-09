@@ -12,8 +12,10 @@
                 {{Session::get('message')}}
             </div>
         @endif
+        <br/>
+        <br/>
 
-        <h2 class="text-center chalkboard">Contact Us Today!</h2>
+            <h2 class="text-center chalkboard">Contact Us Today!</h2>
 
 
         <ul>
