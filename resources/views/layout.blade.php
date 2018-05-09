@@ -1077,7 +1077,7 @@ em.caption-em{
 
 {{--</header>--}}
 
-<nav class="navbar navbar-expand-lg nav-bg-efork">
+<nav class="navbar navbar-expand-lg navbar-light nav-bg-efork">
     <a class="navbar-brand" href="{{url('/')}}">
         <img id="brand-image" style="width:250px; height:auto;" src="{{url('images/epicfork-draft3.png')}}" alt="EpicFork.com Logo">
     </a>
