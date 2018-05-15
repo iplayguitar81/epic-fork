@@ -135,7 +135,7 @@ div.pagination {
     {{--background: url('{{ URL::asset('images/picnictablebgpurp.png') }}');--}}
 
     /*background-color: #86c5df!important;*/
-    background: url('{{ URL::asset('images/kitchen-wallpaper.JPG') }}');
+    background: url('{{ URL::asset('images/rolling-pin-bg.png') }}');
 
 }
 
